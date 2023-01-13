@@ -1,0 +1,14 @@
+@Controller
+
+
+
+@Repository
+ * Camada de modelo, de dados;
+ * Acesso ao banco de dados;
+ * Salvar, deletar, atualizar;
+
+
+
+@Service
+  * Onde opera as classes de serviços;
+  * Regras de negócios;

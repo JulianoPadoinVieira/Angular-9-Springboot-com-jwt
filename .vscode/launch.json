@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-VendasApplication<Angular9SpringbootComJwt>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.github.julianopadoinvieira.VendasApplication",
+      "projectName": "Angular9SpringbootComJwt",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
